@@ -52,7 +52,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Welcome at BabyCal where your friends and family can book their first meeting wiht your newborn!
     </section>
   </body>
 </html>
